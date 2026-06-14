@@ -56,3 +56,19 @@ footer {
     font-size: 0.9rem;
     color: #777;
 }
+.submit-button {
+    display: inline-block;
+    margin-top: 40px;
+    padding: 14px 24px;
+    border: 1px solid #1f1f1f;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #1f1f1f;
+    font-size: 1.1rem;
+    transition: all 0.2s ease;
+}
+
+.submit-button:hover {
+    background: #1f1f1f;
+    color: #f7f4ee;
+}
